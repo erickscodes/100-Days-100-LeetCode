@@ -1,0 +1,7 @@
+Run Time: O(n)
+Space Complexity: O(n)
+
+- Loop through original string to remove all non alpahbet characters while making it lower case
+- Loop through filtered string backwards and place in new string
+- Compare the two strings
+
